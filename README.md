@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Joseph 👋
 
-<!--
-**josephesco8-ui/josephesco8-ui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an independent AI builder based in Hamburg, Germany.
 
-Here are some ideas to get you started:
+I started seriously learning AI, programming, and system architecture in 2026 by building real projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+That journey became **CEEJ** — an independent technology project focused on reusable intelligence systems and practical AI products.
+
+## What I'm currently learning
+
+- AI engineering
+- Python
+- System architecture
+- Product development
+- Human-AI collaboration
+
+## What I'm building
+
+**CEEJ** — reusable intelligence systems and practical AI applications.
+
+I'm learning by building, documenting the journey, and improving one system at a time.
